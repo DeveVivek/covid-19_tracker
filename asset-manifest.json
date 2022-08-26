@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DeveVivek/covid-19_tracker.git/static/css/main.8a92d9f1.css",
+    "main.js": "/DeveVivek/covid-19_tracker.git/static/js/main.bbbcca6c.js",
+    "static/media/covid19-logofr.png": "/DeveVivek/covid-19_tracker.git/static/media/covid19-logofr.def4623e57e191ecc433.png",
+    "index.html": "/DeveVivek/covid-19_tracker.git/index.html",
+    "main.8a92d9f1.css.map": "/DeveVivek/covid-19_tracker.git/static/css/main.8a92d9f1.css.map",
+    "main.bbbcca6c.js.map": "/DeveVivek/covid-19_tracker.git/static/js/main.bbbcca6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a92d9f1.css",
+    "static/js/main.bbbcca6c.js"
+  ]
+}
